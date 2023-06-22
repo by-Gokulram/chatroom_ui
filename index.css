@@ -22,14 +22,14 @@
   color: #343d4e;
   border: 2px solid #343d4e;
   padding: 5px 10px;
-  background-color: white;
+  background-color: rgb(190, 107, 107);
   outline: none;
   font-size: 12px;
   cursor: pointer;
 }
 .chat-demo-button:hover {
-  background-color: rgba(52, 61, 78, 0.3);
+  background-color: rgba(131, 159, 211, 0.3);
 }
 .chat-demo-button:active {
-  background-color: rgba(52, 61, 78, 0.8);
+  background-color: rgba(100, 87, 170, 0.8);
 }
